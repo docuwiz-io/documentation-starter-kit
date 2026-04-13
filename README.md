@@ -1,4 +1,4 @@
-# docuwiz-templates
+# Documentation Starter Kit
 
 > Write and ship docs the same way you write and ship code. These are Markdown templates for the most common doc types in a software project — versioned, forkable, and ready to drop into any repo.
 
